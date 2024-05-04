@@ -14,7 +14,7 @@
 
 ### QUESTÃO 3:
 
-    A tag utilizada para separar um arquivo HTML de um arquivo CSS é a tag .css para o arquivo CSS e a tag .html para o arquivo HTML. Sendo assim, facilitando a identificação e função de cada arquivo.
+    A tag utilizada para separar um arquivo HTML de um arquivo CSS é a tag .css para o arquivo CSS e a tag .html para o arquivo HTML. Sendo assim, facilitando a identificação da função de cada arquivo.
 
 ### QUESTÃO 4:
     
